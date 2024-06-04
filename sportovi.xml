@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kolekcija_sportova.xsl"?>
+<Kolekcija>
+   <Sport>
+      <Naslov>Košarka</Naslov>
+      <Slika>kosarka.jpg</Slika>
+      <Gledanost>Milijuni gledatelja širom svijeta</Gledanost>
+      <Vrsta>Tim</Vrsta>
+      <GodinaOsnutka>1891</GodinaOsnutka>
+  </Sport>
+  <Sport>
+      <Naslov>Nogomet</Naslov>
+      <Slika>nogomet.jpg</Slika>
+      <Gledanost>Najgledaniji sport na svijetu</Gledanost>
+      <Vrsta>Tim</Vrsta>
+      <GodinaOsnutka>1863</GodinaOsnutka>
+  </Sport>
+  <Sport>
+      <Naslov>Tenis</Naslov>
+      <Slika>tenis.jpg</Slika>
+      <Gledanost>Široko praćen na Grand Slam turnirima</Gledanost>
+      <Vrsta>Individualni</Vrsta>
+      <GodinaOsnutka>1873</GodinaOsnutka>
+  </Sport>
+  <Sport>
+      <Naslov>Plivanje</Naslov>
+      <Slika>plivanje.jpg</Slika>
+      <Gledanost>Popularno na Olimpijskim igrama</Gledanost>
+      <Vrsta>Individualni</Vrsta>
+      <GodinaOsnutka>1896</GodinaOsnutka>
+  </Sport>
+  <Sport>
+      <Naslov>Atletika</Naslov>
+      <Slika>atletika.jpg</Slika>
+      <Gledanost>Osnova modernih Olimpijskih igara</Gledanost>
+      <Vrsta>Individualni</Vrsta>
+      <GodinaOsnutka>776 pr. Kr.</GodinaOsnutka>
+  </Sport>
+</Kolekcija>
